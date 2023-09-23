@@ -1,10 +1,7 @@
 # 2023.Q3-PLN
-Disciplina PLN [2023-Q3]
 
 # Processamento de Linguagem Natural [2023.Q3]
-
 Prof. Alexandre Donizeti Alves
-
 UFABC [CMCC]
 
 <br>

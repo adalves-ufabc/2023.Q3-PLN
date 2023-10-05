@@ -10,7 +10,7 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [PLN [2023-Q3] - Plano de Ensino.pdf](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/plano/2023-Q3%20-%20NAMCZA017-13SA%20-%20Plano%20Ensino.pdf)
 
-### **AULA 06 - Extração e Pré-processamento de Dados + Expressões Regulares**
+### `AULA 06 - Extração e Pré-processamento de Dados + Expressões Regulares`
 
 ##### &nbsp;&nbsp;&nbsp; [2023_Q3_PLN_Notebook_01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_06_Notebook_01.ipynb)
 

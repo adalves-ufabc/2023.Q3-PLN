@@ -22,4 +22,10 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 08 - Notebook 01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_08_Notebook_01.ipynb)
 
+### `AULA 10 - Modelos de Linguagem com N-gramas`
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 10 - Notebook 01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_10_Notebook_01.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 10 - Notebook 02.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_10_Notebook_02.ipynb)
+
 

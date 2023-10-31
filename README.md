@@ -28,4 +28,9 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 10 - Notebook 02.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_10_Notebook_02.ipynb)
 
+### `AULA 13 - Representação de Textos`
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 13 - Notebook 01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_13_Notebook_01.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 13 - Notebook 02.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_13_Notebook_02.ipynb)
 

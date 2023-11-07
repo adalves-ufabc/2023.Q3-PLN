@@ -42,3 +42,9 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 14 - Notebook 03.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_14_Notebook_03.ipynb)
 
+### `AULA 15 - Grandes Modelos de Linguagem [Agrupamento de Textos com SBERT]`
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 15 - Notebook 01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_15_Notebook_01.ipynb)
+
+### `AULA 16 - Grandes Modelos de Linguagem [Agrupamento de Textos com LLM]`
+

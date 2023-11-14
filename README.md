@@ -52,4 +52,11 @@ UFABC [CMCC]
 
 ##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 16 - Notebook 02.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_16_Notebook_02.ipynb)
 
+### `AULA 17 - LangChain
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 17 - Notebook 01.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_17_Notebook_01.ipynb)
+
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN AULA 17 - Notebook 02.ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_AULA_17_Notebook_02.ipynb)
+
+
 

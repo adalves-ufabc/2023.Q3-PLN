@@ -60,6 +60,6 @@ UFABC [CMCC]
 
 ### `EXTRA - OpenAI [versão 1.3.5]`
 
-##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN EXTRA OpenAI [versão 1.3.5].ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_EXTRA_OpenAI_1_3_5.ipynb)
+##### &nbsp;&nbsp;&nbsp; [2023-Q3 PLN EXTRA - OpenAI [versão 1.3.5].ipynb](https://github.com/adalves-ufabc/2023.Q3-PLN/blob/main/aulas/2023_Q3_PLN_EXTRA_OpenAI_1_3_5.ipynb)
 
 
